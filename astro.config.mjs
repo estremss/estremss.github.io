@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'https://estremss.github.io/',
+  site: 'https://estremss.github.io/portfolio',
   base: 'portfolio',
 })
