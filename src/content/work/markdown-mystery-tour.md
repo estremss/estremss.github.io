@@ -1,14 +1,14 @@
 ---
-title: Markdown Mystery Tour
+title: Carcassonne en C
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/carcassonne.jpg
+img_alt: Logo Carcassone
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Projet de Programmation du jeu de société Carcassonne en Langage C. En collaboration avec Assalas ARAB.
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - C Language
+  - Game Coding
+  - Pair Programming
 ---
 
 ## Level-two heading
