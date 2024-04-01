@@ -14,7 +14,7 @@ tags:
 
 ## Processeur RISC-V 32 bits
 
-Au cours du premier semestre de ma L2 Informatique que nous avons commencé à construire ce processeur sur Digital. C'est dans le cours Architecture des Ordinateurs que notre professeur nous a introduit les portes et cicruits logiques.
+Au cours du premier semestre de ma L2 Informatique, nous avons commencé à construire ce processeur sur Digital. C'est dans le cours Architecture des Ordinateurs que notre professeur nous a introduit les portes logiques et cicruits logiques.
 
 > From the scratch
 
