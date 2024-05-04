@@ -40,7 +40,7 @@ Cela nous a permis de pouvoir mettre facilement notre code en lien avec le jeu d
 D'abord, nous avions choisi de faire un affichage terminal, avec des couleurs et des symboles de pions, blasons, etc...
 
 Jusqu'à ce que notre professeur nous montre l'existence d'une bibliothèque graphique très utile : Raylib.
-C'est est une bibliothèque graphique très accessible qui permet de coder des jeux 2D et même 3D !
+C'est une bibliothèque graphique très accessible qui permet de coder des jeux 2D et même 3D !
 
 ## Utiliser notre projet
 

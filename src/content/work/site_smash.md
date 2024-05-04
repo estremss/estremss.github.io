@@ -1,5 +1,5 @@
 ---
-title: Site Web de Tournoi de Jeu Vidéo (en cours)
+title: Site Web de Tournoi de Jeu Vidéo
 publishDate: 2019-10-02 00:00:00
 img: /assets/smash_bros.jpg
 img_alt: Illustration Smash Bros
@@ -11,10 +11,10 @@ tags:
   - JavaScript
 ---
 
-Le lien vers le site sera disponible quand il sera terminé !
+[Lien du site](https://estremss.github.io/tournament_website/)
 
 ## Les notions utilisées
 
 Dans le cadre de notre cours de Programmation Web, nous devions créer un site de tournoi pour un sujet quelconque.
 
-Il était demandé d'implémenter un système de connexion (fictif) au site, du style CSS, et un système de qualification pour le tournoi (JavaScript).
+Il était demandé d'implémenter un système de connexion (fictif) au site, du style CSS, et un système de qualification pour le tournoi (JavaScript avec du SessionStorage).

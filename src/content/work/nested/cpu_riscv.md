@@ -14,11 +14,11 @@ tags:
 
 ## Processeur RISC-V 32 bits
 
-Au cours du premier semestre de ma L2 Informatique, nous avons commencé à construire ce processeur sur Digital. C'est dans le cours Architecture des Ordinateurs que notre professeur nous a introduit les portes logiques et cicruits logiques.
+Au cours du premier semestre de ma L2 Informatique, nous avons commencé à construire ce processeur sur Digital. C'est dans le cours Architecture des Ordinateurs que notre professeur nous a introduit les portes logiques et circuits logiques.
 
 > From the scratch
 
-C'est en partant de zéro que nous avons commencé à construire notre processeur. D'abord sur papier en créant des automates à états finis, des tables de vérité et des équation. Ensuite nous avons débuté sur Digital avec :
+C'est en partant de zéro que nous avons commencé à construire notre processeur. D'abord sur papier en créant des automates à états finis, des tables de vérité et des équations. Ensuite nous avons débuté sur Digital avec :
 - un additionneur 1-bit (puis 4-bits)
 - un circuit AND
 - un banc de registres 8-bits (puis 32-bits)
