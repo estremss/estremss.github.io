@@ -9,7 +9,6 @@ tags:
   - Architecture des Ordinateurs
   - Risc-V
   - CPU
-  - Terminé
 ---
 
 ## Processeur RISC-V 32 bits
