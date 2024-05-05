@@ -11,7 +11,7 @@ tags:
   - Pair Programming
 ---
 
-[Lien du Projet GitHub](https://github.com/estremss/Carcassonne)
+[Lien GitHub du Projet](https://github.com/estremss/Carcassonne)
 
 ## Le jeu Carcassonne
 

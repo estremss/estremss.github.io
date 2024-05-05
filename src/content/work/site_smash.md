@@ -18,3 +18,5 @@ tags:
 Dans le cadre de notre cours de Programmation Web, nous devions créer un site de tournoi pour un sujet quelconque.
 
 Il était demandé d'implémenter un système de connexion (fictif) au site, du style CSS, et un système de qualification pour le tournoi (JavaScript avec du SessionStorage).
+
+Le site est responsive et comprend une version mobile.
