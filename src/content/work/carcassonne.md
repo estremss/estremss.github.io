@@ -35,12 +35,9 @@ Dans notre approche pour coder le jeu, nous avons privilégié une représentati
 Cela nous a permis de pouvoir mettre facilement notre code en lien avec le jeu de société.
 
 
-> Deux affichage : terminal et graphique
+> Un affichage dans le terminal
 
-D'abord, nous avions choisi de faire un affichage terminal, avec des couleurs et des symboles de pions, blasons, etc...
-
-Jusqu'à ce que notre professeur nous montre l'existence d'une bibliothèque graphique très utile : Raylib.
-C'est une bibliothèque graphique très accessible qui permet de coder des jeux 2D et même 3D !
+Nous avons choisi dans la simplicité et l'efficacité en optant pour un affichage terminal en utilisant l'UTF-8 et ses symboles pour représenter les pions. Et les couleurs d'arrière plan pour représenter les différentes parties d'une tuile avec un certain code couleur.
 
 ## Utiliser notre projet
 
