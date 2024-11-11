@@ -1,6 +1,6 @@
 ---
 title: Carcassonne en C
-publishDate: 2020-03-02 00:00:00
+publishDate: 2024-10-10 00:00:00
 img: /assets/carcassonne.jpg
 img_alt: Logo Carcassone
 description: |
