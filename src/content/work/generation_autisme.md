@@ -2,7 +2,7 @@
 title: Site Web de l'association Génération Autisme
 publishDate: 2019-10-02 00:00:00
 img: assets/page_accueil_gene_autisme.png
-img_alt: Illustration Smash Bros
+img_alt: Landing Page du site generationautisme.fr
 description: |
   Projet de Programmation Web, avec l'utilisation de la librairie Tailwind
 tags:
